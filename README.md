@@ -1,6 +1,3 @@
-[<img alt="forthebadge" height="50" src="https://forthebadge.com/images/badges/gluten-free.svg" width="250"/>](https://forthebadge.com)
-[<img alt="forthebadge" height="50" src="https://forthebadge.com/images/badges/built-with-swag.svg" width="250"/>](https://forthebadge.com)
-[<img alt="forthebadge" height="50" src="https://forthebadge.com/images/badges/works-on-my-machine.svg" width="250"/>](https://forthebadge.com)
 # PassManager
 
 **PassManager** is a Minecraft [Fabric](https://fabricmc.net/) mod that allows you to securely store and manage passwords for different Minecraft servers. With **PassManager**, you'll never have to worry about forgetting your server passwords or having them stolen by hackers.*
